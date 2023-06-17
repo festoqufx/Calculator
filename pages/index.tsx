@@ -27,7 +27,7 @@ export default function Home() {
 
 const CalculatorHeader = () => (
   <div className="flex justify-between items-center w-full mb-8">
-    <h1 className="text-3xl text-skin-switcher font-spartan">Calculator</h1>
+    <h1 className="text-3xl text-skin-switcher font-spartan">calc</h1>
     <ThemeSwitcher />
   </div>
 );
