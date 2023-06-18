@@ -6,15 +6,15 @@ This is a solution to the [Calculator app challenge on Frontend Mentor](https://
 
 -[Overview](#overview)
 
-  -[The challenge](#the-challenge)
+-[The challenge](#the-challenge)
 
-  -[Screenshot](#screenshot)
+-[Screenshot](#screenshot)
 
-  -[Links](#links)
+-[Links](#links)
 
 -[My process](#my-process)
 
-  -[Built with](#built-with)
+-[Built with](#built-with)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/26444448/209899249-6b9d6a58-4328-44a2-8fcd-787c4c753792.png)
+![image](https://calculator-festoqufx.vercel.app/1.png)
 
 ### Links
 
