@@ -12,29 +12,29 @@
     /* KEYS */
     --color-key-primary: hsl(222, 7%, 28%);
     --color-key-primary-shadow: hsl(225, 8%, 31%);
-    --color-key-secondary: hsl(246, 100%, 50%);
-    --color-key-secondary-shadow: hsl(242, 71%, 40%);
+    --color-key-secondary: hsl(246, 100%, 77%);
+    --color-key-secondary-shadow: hsl(242, 80%, 62%);
     --color-key-muted: hsl(30, 25%, 89%);
     --color-key-muted-shadow: hsl(28, 16%, 65%);
 
     /* TEXT */
     --color-text-primary: hsl(221, 14%, 31%);
-    --color-text-secondary: hsl(0, 0%, 100%);
+    --color-text-secondary: hsl(0, 0%, 74%);
     --color-text-switcher: hsl(0, 0%, 100%);
     --color-text-equal: hsl(0, 0%, 100%);
   }
 
   .light-theme {
     /* BACKGROUNDS */
-    --color-main-background: hsl(0, 0%, 90%);
-    --color-keypad-background: hsl(0, 5%, 81%);
+    --color-main-background: hsl(0, 0%, 100%);
+    --color-keypad-background: hsl(0, 0%, 82%);
     --color-screen-background: hsl(0, 0%, 93%);
 
     /* KEYS */
-    --color-key-primary: hsl(185, 42%, 37%);
-    --color-key-primary-shadow: hsl(185, 58%, 25%);
-    --color-key-secondary: hsl(25, 98%, 40%);
-    --color-key-secondary-shadow: hsl(25, 99%, 27%);
+    --color-key-primary: hsl(0, 95%, 71%);
+    --color-key-primary-shadow: hsl(0, 85%, 57%);
+    --color-key-secondary: hsl(58, 94%, 66%);
+    --color-key-secondary-shadow: hsl(62, 100%, 70%);
     --color-key-muted: hsl(45, 7%, 89%);
     --color-key-muted-shadow: hsl(35, 11%, 61%);
 
@@ -47,23 +47,23 @@
 
   .neon-theme {
     /* BACKGROUNDS */
-    --color-main-background: hsl(268, 75%, 9%);
-    --color-keypad-background: hsl(268, 71%, 12%);
-    --color-screen-background: hsl(268, 71%, 12%);
+    --color-main-background: hsl(242, 100%, 50%);
+    --color-keypad-background: hsl(240, 100%, 58%);
+    --color-screen-background: hsl(247, 100%, 18%);
 
     /* KEYS */
-    --color-key-primary: hsl(281, 89%, 26%);
-    --color-key-primary-shadow: hsl(285, 91%, 52%);
-    --color-key-secondary: hsl(176, 100%, 44%);
-    --color-key-secondary-shadow: hsl(177, 92%, 70%);
-    --color-key-muted: hsl(268, 47%, 21%);
-    --color-key-muted-shadow: hsl(290, 70%, 36%);
+    --color-key-primary: hsl(246, 100%, 50%);
+    --color-key-primary-shadow: hsl(249, 91%, 52%);
+    --color-key-secondary: hsl(222, 100%, 51%);
+    --color-key-secondary-shadow: hsl(235, 92%, 70%);
+    --color-key-muted: hsl(249, 48%, 21%);
+    --color-key-muted-shadow: hsl(240, 70%, 36%);
 
     /* TEXT */
-    --color-text-primary: hsl(52, 100%, 62%);
+    --color-text-primary: hsl(0, 0%, 100%);
     --color-text-secondary: hsl(0, 0%, 100%);
-    --color-text-switcher: hsl(52, 100%, 62%);
-    --color-text-equal: hsl(198, 20%, 13%);
+    --color-text-switcher: hsl(0, 0%, 100%);
+    --color-text-equal: hsl(198, 100%, 50%);
   }
 }
 
@@ -97,3 +97,4 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
