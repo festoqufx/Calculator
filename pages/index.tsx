@@ -10,7 +10,7 @@ export default function Home() {
         <title>Calculator</title>
         <meta
           name="description"
-          content="Calculator app solution for frontendmentor challenge"
+          content="Calculator app solution for frontend mentor challenge"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.png" />
@@ -27,7 +27,7 @@ export default function Home() {
 
 const CalculatorHeader = () => (
   <div className="flex justify-between items-center w-full mb-8">
-    <h1 className="text-3xl text-skin-switcher font-spartan">Calculator</h1>
+    <h1 className="text-3xl text-skin-switcher font-spartan">Raven&apos;s Online Calculator</h1>
     <ThemeSwitcher />
   </div>
 );
